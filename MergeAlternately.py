@@ -39,3 +39,5 @@ z = 2
 y = 3
 
 print(z*y)
+
+print(z+y)
