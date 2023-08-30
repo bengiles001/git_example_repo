@@ -34,6 +34,8 @@ list1
 teststr
 
 print("this is in an example print statement")
-x = 3
-y = 2
-print(x + y)
+
+z = 2 
+y = 3
+
+print(z*y)
