@@ -4,6 +4,7 @@ class Solution:
         result = []
         out = word1 + word2
         list1 = [i for i in word1]
+        list3 = [5,5]
         list2 = [i for i in word2]
         test = it.zip_longest(list1, list2)
         result = []
